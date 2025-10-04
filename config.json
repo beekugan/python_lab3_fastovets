@@ -1,0 +1,9 @@
+{
+  "text_filename": "input_text.txt",
+  "target_lang": "en",
+  "module": "mypackage.module3", 
+  "output": "file",
+  "max_chars": 1000,
+  "max_words": 200,
+  "max_sentences": 20
+}

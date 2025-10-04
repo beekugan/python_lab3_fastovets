@@ -1,0 +1,3 @@
+Docker is a tool for controlling isolated Linux containers. Docker complements the LXC toolkit with a more high -level API that allows you to control containers at the isolation level of individual processes. In particular, Docker allows you to launch arbitrary processes in the insulation mode without concern to the container content and then carry and clone the containers to other servers formed for these processes, taking over all the work to create, maintain and maintain containers.
+
+The DOCKER initial code is written in GO and is distributed under the Apache 2.0 license. The toolkit is based on the use of the Linux core of the standard isolation mechanisms based on names (Namespaces) and control groups (Cgroups). LXC scripts are used to create containers.

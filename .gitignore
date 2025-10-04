@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.fastovets/
+fastovets/
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Virtual environment folders
+fastovets/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / cache
+.pytest_cache/
+
+# Pipenv
+Pipfile.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml
